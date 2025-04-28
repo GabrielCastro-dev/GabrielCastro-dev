@@ -1,6 +1,6 @@
 ### Gabriel Castro
 
-Sou um desenvolvedor web apaixonado por programação e interessado em novos desafios.
+Sou um desenvolvedor web interessado em novos desafios.
 
 ##
 
